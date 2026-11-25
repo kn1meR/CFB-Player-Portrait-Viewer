@@ -5,8 +5,7 @@ A clean, modern desktop app for browsing FBS college-football rosters and player
 Built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), [Requests](https://requests.readthedocs.io/) and [Pillow](https://python-pillow.org/).
 
 <!-- Add a screenshot: save one as docs/screenshot.png and uncomment the line below -->
-**[FBS Roster Viewer](docs/Roster_Viewer.png)**
-
+<p align="center"> <img src="docs/Roster_Viewer.png" alt="FBS Roster Viewer showing the Alabama roster with a player card" width="900"> </p>
 ---
 
 ## Features
