@@ -1,4 +1,4 @@
-# FBS Roster Viewer
+# CFB Player Portrait Viewer
 
 A clean, modern desktop app for browsing FBS college-football rosters and player headshots. Pick a program, scan its roster, and download portraits one at a time or as a team zip. Data comes from ESPN's public site API.
 
